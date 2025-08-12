@@ -70,7 +70,6 @@
 - **Notes Support** - Add detailed notes to each credential
 
 ### 🎨 User Interface
-- **Arabic Interface** - Native Arabic language support
 - **Modern Design** - Clean, intuitive WPF interface
 - **Dark/Light Themes** - Customizable appearance
 - **Responsive Layout** - Adapts to different screen sizes
