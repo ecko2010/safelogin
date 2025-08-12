@@ -46,7 +46,7 @@
 
 - 🔒 **100% Local Storage** - Your data stays on your device
 - 🛡️ **Military-Grade Encryption** - AES-256 encryption
-- 🎯 **User-Friendly** - Clean, intuitive Arabic interface
+- 🎯 **User-Friendly** - Clean
 - 🚀 **Fast & Lightweight** - Quick access to your passwords
 - 🔍 **Smart Search** - Find credentials instantly
 - 📝 **Notes Support** - Add context to your passwords
