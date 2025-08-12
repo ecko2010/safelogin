@@ -93,7 +93,6 @@
 - ✅ Secure password storage with AES-256 encryption
 - ✅ Add, edit, delete, and search credentials
 - ✅ Notes support for additional context
-- ✅ Arabic user interface
 - ✅ License activation system
 - ✅ Local SQLite database
 - ✅ Master password protection
@@ -104,10 +103,10 @@
 - Search across all credential fields
 - Add detailed notes to each entry
 - Secure data with military-grade encryption
-- Clean, intuitive Arabic interface
+- Clean
 
 ### 🔮 Version 2.0 (Planned)
-**Expected:** Q2 2025
+**Expected:** Q3 2025
 
 **Upcoming Features:**
 - 🔄 **Automatic Backup & Restore**
@@ -133,6 +132,8 @@
   - Biometric authentication
   - Security audit reports
   - Breach monitoring
+    
+### 🔮 (Planned)
 
 - 📱 **Mobile Companion**
   - Android/iOS apps
