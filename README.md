@@ -226,7 +226,7 @@
 #### Method 3: Build from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/safelogin.git
+git clone https://github.com/ecko2010/safelogin.git
 cd safelogin
 
 # Restore dependencies
